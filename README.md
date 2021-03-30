@@ -11,4 +11,4 @@ To jest pierwszy commit, który ma trafić na drugą gałąź testową.
 
 Drugi commit na drugiej gałęzi.
 
-Sprawdzam SSH..
+Sprawdzam SSH...
